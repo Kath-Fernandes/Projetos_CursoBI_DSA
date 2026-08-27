@@ -16,7 +16,7 @@ O objetivo deste repositório é documentar a evolução prática no uso de **Po
 |  `analisetemporal.pbix` | **Análise Temporal (Time Intelligence)** | Métricas temporais em DAX (`SAMEPERIODLASTYEAR`, `YTD`, `MDT`), tabelas dCalendario e tendências. |
 |  `Projeto 6 - Dashboard Analítico...` | **Dashboard Analítico Integrado** | Construção de painel gerencial, KPIs, navegação entre páginas, filtros dinâmicos e design focado na experiência do usuário. |
 |  `DASH - Cap17.pbix` | **Projeto Final / Estudo de Caso Avançado** | Modelagem avançada (Star Schema), cálculo de indicadores complexos com DAX e técnicas profissionais de layout. |
-|  `PRIMEIRO PROJETO - DAX ALUR...` | **Modelagem e Linguagem DAX** | Criação de colunas calculadas, medidas rápidas e avançadas utilizando funções de agregação e contexto (`CALCULATE`). |
+|  `PRIMEIRO PROJETO ` | **Modelagem e Linguagem DAX** | Criação de colunas calculadas, medidas rápidas e avançadas utilizando funções de agregação e contexto (`CALCULATE`). |
 
 ---
 
